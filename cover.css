@@ -1,0 +1,24 @@
+html {
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: #fad9a7;
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    margin: 0;
+  }
+
+  .container {
+    
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+    
+  }
+
+  .vertical-center {
+    margin: 0;
+    position: relative;
+  }
